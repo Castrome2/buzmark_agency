@@ -1,4 +1,4 @@
-import logo from "@/assets/Logo.png";
+import logo from "@/assets/logo.png";
 
 export function Logo({ className = "h-10 w-auto" }: { className?: string }) {
   return (
