@@ -73,7 +73,7 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
   );
 }
 
-const title = "Buzmark Agency — Brand, Marketing & Business Consulting";
+const title = "Buzmark Agency";
 const description =
   "Buzmark is a full-service branding, marketing and business consulting agency. We build memorable brands, run winning campaigns and grow ambitious businesses.";
 

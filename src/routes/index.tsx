@@ -12,7 +12,7 @@ import hero3 from "@/assets/hero-3.jpg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Buzmark Agency — Strategy. Growth. Results." },
+      { title: "Buzmark Agency" },
       { name: "description", content: "Your growth partner in branding, marketing, digital presence and business consulting." },
       { property: "og:title", content: "Buzmark Agency — Strategy. Growth. Results." },
       { property: "og:description", content: "Your growth partner in branding, marketing, digital presence and business consulting." },
