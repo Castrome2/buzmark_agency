@@ -29,7 +29,7 @@ import { Loader2, LogOut, RefreshCw } from "lucide-react";
 export const Route = createFileRoute("/admin")({
   head: () => ({
     meta: [
-      { title: "Admin — Buzmark Agency" },
+      { title: "Buzmark Agency Admin" },
       { name: "robots", content: "noindex, nofollow" },
     ],
   }),
