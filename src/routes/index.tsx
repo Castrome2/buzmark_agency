@@ -44,7 +44,7 @@ const services = [
 ];
 
 const managed = [
-  { name: "Serrari Fintech", industry: "Financial Intelligence" },
+  { name: "Cerrari Fintech", industry: "Financial Intelligence" },
   { name: "ABC Holdings", industry: "Investment" },
   { name: "XYZ Travels", industry: "Travel & Tourism" },
   { name: "TechNova", industry: "Software & AI" },
